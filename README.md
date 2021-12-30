@@ -1,10 +1,9 @@
 # Bài tập nhóm cuối kì - Nhập môn lập trình web - CT188 - CTU
 
 ## Các thành viên
-    + Nguyễn Hữu Nhân
     + Mai Bảo Tín
-    + Nguyễn Văn Minh
-
+    + Nguyễn Hữu Nhân
+   
 ## Website bao gồm 11 trang 
     1. Trang chủ
     2. Giới thiệu
